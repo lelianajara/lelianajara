@@ -19,3 +19,10 @@
   <a href="https://www.linkedin.com/in/pedromarquex" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+
+### Métricas:
+<div>
+<img align="left" height='165px' alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lelianajara&show_icons=true&theme=dark&count_private=true&locale=pt-br" />
+<img align="left" alt="Danton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelianajara&layout=compact&theme=dark&locale=pt-br" />
+</div>
