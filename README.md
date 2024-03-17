@@ -15,7 +15,7 @@
  
 <div> 
   
-  <a href = "mailto: lelianajara@outlook.com"><img src="https://www.iconninja.com/files/801/378/567/mail-email-microsoft-outlook-icon.png" target="_blank"></a>
+
   <a href="https://www.linkedin.com/in/najarafreitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
