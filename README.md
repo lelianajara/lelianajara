@@ -26,3 +26,6 @@
 <img align="left" height='165px' alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lelianajara&show_icons=true&theme=dark&count_private=true&locale=pt-br" />
 <img align="left" alt="Danton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelianajara&layout=compact&theme=dark&locale=pt-br" />
 </div>
+
+
+![snake gif](https://github.com/lelianajara/lelianajara/blob/output/github-contribution-grid-snake.svg)
