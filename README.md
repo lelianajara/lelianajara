@@ -14,6 +14,8 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Najara height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="Najara height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
+  <img align="center" alt="Najara height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"/>
+  <img align="center" alt="Najara height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"/>  
   </div>
   
   ## Redes Sociais
