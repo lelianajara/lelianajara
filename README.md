@@ -1,4 +1,4 @@
-# Hi! I'm Lélia Najara 🐍
+# Hi! I'm Lélia Najara 
 
 
 <div>
